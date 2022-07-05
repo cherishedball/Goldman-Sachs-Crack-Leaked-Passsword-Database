@@ -12,7 +12,7 @@ What controls could be implemented to make cracking much harder for the hacker i
 
 Here is a sample data file containing hashes dumped together:
 
-https://github.com/ne3lakolkar/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/passwd_dump.txt
+https://github.com/cherishedball/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/password_dump.txt
 
 After the conducted analysis it was determined that organization uses an outdated password hashing algorithm (MD5) which offers very little protection in the event of a password database leaking. It was also determined that the current password policy is not aligned with industry best practices allowing users to have short passwords (6 characters) and reuse usernames as part of passwords.
 
@@ -79,7 +79,7 @@ ii) Minimum 2 special characters (/, #,*,... etc.)  must be used in the    passw
 iii) An external api based tool which checks for password strength should show that the used password is strong.
 
 Complete report is available at:
-asasa
+https://github.com/cherishedball/Goldman-Sachs-Crack-Leaked-Passsword-Database/blob/main/Hashes%20and%20Goldman%20Sachs%20Internship.pdf
 
 ### Resources
 https://arstechnica.com/information-technology/2013/05/how-crackers-make-minced-meat-out-of-your-passwords/
